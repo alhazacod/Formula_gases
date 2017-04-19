@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Formula_gases.MainPage">
+    <StackLayout Padding="10">
+        <Label FontSize="Large" TextColor="DarkCyan">Tips:</Label>
+        <Label TextColor="Black">1- Verifica que los volumenes tengan la misma unidad, por ejemplo si tienes en un volumen metros cubicos en el otro tambien deben ser metros cubicos.</Label>
+        <Label TextColor="Black">2- Verifica que las presiones tengan la misma unidad, por ejemplo si tienes en una presion admosferas en la otra presion tambien debe ser admosferas</Label>
+    </StackLayout>
+</ContentPage>

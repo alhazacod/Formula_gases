@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Formula_gases.Ley_boyle">
+    <StackLayout Orientation="Vertical" Padding="10"><!--stack general-->
+        <StackLayout HorizontalOptions="StartAndExpand">
+            <Label HorizontalTextAlignment="Start">¿Como se usa?</Label>
+            <Label HorizontalTextAlignment="Start">Solo debes colocar los datos que ya tienes y dejar en blanco el que deseas obtener y al darle click en resultado el valor que te falta aparecera.
+            </Label>
+        </StackLayout>
+        <StackLayout HorizontalOptions="Center"><!--ingresar datos-->
+            <StackLayout Orientation="Horizontal">
+                <Label Text="V1" VerticalOptions="Center"/>
+                <Entry x:Name="entryV1" Placeholder="V1" WidthRequest="75" HorizontalTextAlignment="Center" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="P1" VerticalOptions="Center"/>
+                <Entry x:Name="entryP1" Placeholder="P1" WidthRequest="75" HorizontalTextAlignment="Center" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="V2" VerticalOptions="Center"/>
+                <Entry x:Name="entryV2" Placeholder="V2" WidthRequest="75" HorizontalTextAlignment="Center" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="P2" VerticalOptions="Center"/>
+                <Entry x:Name="entryP2" Placeholder="P2" WidthRequest="75" HorizontalTextAlignment="Center" VerticalOptions="Center"/>
+            </StackLayout>
+        </StackLayout><!--ingresar datos-->
+        <StackLayout>
+            <Label x:Name="labelResultado" Text="" FontSize="Medium"/>
+            <Button x:Name="buttonResolver" Text="Resolver!"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="Center">
+            <!--acá debe ir la imagen que explica la formula-->
+        </StackLayout>
+    </StackLayout><!--stack general-->
+</ContentPage>

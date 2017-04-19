@@ -1,0 +1,2 @@
+C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases.UWP\Formula_gases.UWP.csproj;x86
+C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\Formula_gases.csproj;neutral
