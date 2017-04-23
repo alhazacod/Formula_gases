@@ -17,5 +17,3 @@ c:\users\angel\documents\visual studio 2017\Projects\Formula_gases\Formula_gases
 c:\users\angel\documents\visual studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\obj\Debug\Formula_gases.Ley_boyle.xaml.g.cs
 C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\obj\Debug\Formula_gases.dll.mdb
 C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\bin\Debug\Formula_gases.dll.mdb
-C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\obj\Debug\Formula_gases.dll.mdb
-C:\Users\angel\Documents\Visual Studio 2017\Projects\Formula_gases\Formula_gases\Formula_gases\bin\Debug\Formula_gases.dll.mdb

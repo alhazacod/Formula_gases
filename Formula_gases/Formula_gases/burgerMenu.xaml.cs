@@ -35,6 +35,8 @@ namespace Formula_gases
 
             listMenu.Margin = new Thickness(0, 24, 0, 0);
 
+            
+
             Detail = new NavigationPage(new MainPage());
         }
         private void ListMenu_ItemSelected(object sender, SelectedItemChangedEventArgs e)

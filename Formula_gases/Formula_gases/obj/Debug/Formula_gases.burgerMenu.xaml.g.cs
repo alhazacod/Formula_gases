@@ -11,7 +11,7 @@
 namespace Formula_gases {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\angel\\documents\\visual studio 2017\\Projects\\Formula_gases\\Formula_gases\\" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\angel\\Documents\\Visual Studio 2017\\Projects\\Formula_gases\\Formula_gases\\" +
         "Formula_gases\\burgerMenu.xaml")]
     public partial class burgerMenu : global::Xamarin.Forms.MasterDetailPage {
         
